@@ -1,0 +1,3 @@
+双击 nginx.exe启动
+项目1       localhost:8081
+项目2      localhost:8080
